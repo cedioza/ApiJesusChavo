@@ -1,0 +1,12 @@
+.contHeader{
+    display: flex;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family:'Rockwell';
+    background-color: rgb(21, 255, 0);
+}
+p{
+    font-size:2em;
+}

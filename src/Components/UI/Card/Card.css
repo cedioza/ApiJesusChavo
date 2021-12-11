@@ -1,0 +1,25 @@
+.grid-card{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1d1d1;
+    width: 20em;
+    border-radius: 1em;
+    box-shadow: 0em 0em 2em#ffffff;
+    padding: 1em 0.5em;
+    margin: 1em;
+    border: 1px solid #000000;
+}
+
+.img-card{
+    border-radius: 1em;
+    box-shadow: 0em 0em 2em#000000;
+    margin: 1em 0.5em;
+    border-radius: 1em;
+}
+

@@ -1,0 +1,8 @@
+.Logo{
+    background-color: #000303;
+    border-radius: 50%;
+    padding: 0.5em 0.5em;
+    box-shadow: 0em 0em 2em rgb(255, 255, 255);
+    width: 100px;
+    margin-right: 2em;
+}
